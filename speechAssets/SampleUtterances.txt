@@ -1,0 +1,8 @@
+GetNextGame next Manchester United game
+GetNextGame next Manchester United match
+GetNextGame when is Manchester United's next game
+GetNextGame when is Manchester United's next match
+GetNextGame who does Manchester United play next
+GetNextGame when does Manchester United play next
+GetNextGame get next game
+GetNextGame get game
